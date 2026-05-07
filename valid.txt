@@ -1,0 +1,44 @@
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_2/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_3/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_4/1_10000.json valid.
+⚠️ Ditemukan sample bermasalah di /home/tanjung/dataset_msa/output//data_set_seq_5/1_10000.json:
+  Sample 1909
+Sample bermasalah : 1/10000
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_6/1_10000.json valid.
+⚠️ Ditemukan sample bermasalah di /home/tanjung/dataset_msa/output//data_set_seq_7/1_10000.json:
+  Sample 2593
+Sample bermasalah : 1/10000
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_8/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_9/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_10/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_2/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_3/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_4/1_10000.json valid.
+⚠️ Ditemukan sample bermasalah di /home/tanjung/dataset_msa/output//data_set_seq_5/1_10000.json:
+  Sample 1909
+Sample bermasalah : 1/10000
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_6/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_7/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_8/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_9/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_10/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_2/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_3/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_4/1_10000.json valid.
+⚠️ Ditemukan sample bermasalah di /home/tanjung/dataset_msa/output//data_set_seq_5/1_10000.json:
+  Sample 1909
+Sample bermasalah : 1/10000
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_6/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_7/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_8/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_9/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_10/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_2/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_3/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_4/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_5/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_6/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_7/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_8/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_9/1_10000.json valid.
+✅ Semua sample di /home/tanjung/dataset_msa/output//data_set_seq_10/1_10000.json valid.

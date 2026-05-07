@@ -1,0 +1,22 @@
+docker run --rm \
+    -v "/home/tanjung/dataset_msa/uji":/input \   # folder output
+    -v "/home/tanjung/dataset_msa":/app \              # folder script
+    --entrypoint python3 \
+    sparta_edit \                                            # nama image
+    /app/msa_nuc.py \                               # script yang dijalankan
+    uji_coba \           # flag/nama folder output
+    /input/ \            # path hasil di dalam kontainer
+    32 44 \              # min_seq_length max_seq_length
+    0.5 1.0 \            # min_branch_length max_branch_length
+    10 \                 # jumlah sampel (num_of_samples)
+    0.0 0.05 \           # minIR maxIR (indel rate)
+    1.01 2.0 \           # minAVal maxAVal
+    5 \                  #jumlah sekuens (num_of_sequences)
+
+based on paper  : 
+docker run --rm -v "/home/tanjung/dataset_msa/final":/input -v "/home/tanjung/dataset_msa":/app --entrypoint python3 sparta_edit /app/msa_nuc.py final /input/ 32 44 0.5 1.0 10 0.0 0.05 1.01 2.0 5 
+
+agar ada anomali :
+docker run --rm -v "/home/tanjung/dataset_msa/anomali":/input -v "/home/tanjung/dataset_msa":/app --entrypoint python3 sparta_edit /app/msa_nuc.py anomali /input/ 20 50 0.02 0.9 10 0.5 0.9 1.01 2.0 10
+
+docker run --rm -v "/home/tanjung/dataset_msa/anomali":/input -v "/home/tanjung/dataset_msa":/app --entrypoint python3 sparta_edit /app/msa_nuc.py regen /input/ 32 44 0.5 1.0 3 0.0 0.05 1.01 2.0 15
